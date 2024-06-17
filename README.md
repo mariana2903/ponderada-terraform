@@ -1,5 +1,13 @@
 # ponderada-terraform
 
+O Terraform é uma ferramenta de automação de infraestrutura como código (IaC) desenvolvida pela HashiCorp. Ela permite aos usuários definir e provisionar a infraestrutura de TI usando uma linguagem de configuração de alto nível. Você pode usá-la para gerenciar serviços em nuvem, internos ou híbridos. Isso inclui tudo, desde instâncias de servidor, armazenamento e redes até recursos de segurança e DNS. A principal vantagem do Terraform é que ele ajuda a criar, alterar e melhorar a infraestrutura de forma consistente e previsível, eliminando muitos dos riscos associados à gestão manual dos recursos de tecnologia.
+
+Nesse tutorial foi utilizado:
+
+- AWS Academy 
+- Terraform CLI
+- AWS CLI
+
 Para iniciar o tutorial é necessário abrir o terminal powershell como administrador e instalar o terraform CLI com o seguinte comando:
 
 ```
