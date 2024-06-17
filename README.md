@@ -68,7 +68,8 @@ Em seguida "terraform plan" e depois "terraform apply"
 
 E por fim é possível conferir a instância que foi criada na AWS 
 
-![image](https://github.com/mariana2903/ponderada-terraform/assets/99264876/26bb55e5-f746-480c-bfce-4ed669a76c74)
+![image](https://github.com/mariana2903/ponderada-terraform/assets/99264876/0c79eba1-3f54-4422-9cca-fa8cd89faee5)
+
 
 
 
